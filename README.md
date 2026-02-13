@@ -5,5 +5,7 @@ Portafolio de Ciencia de Datos
 🛠️ Tecnologías Utilizadas
 
 • Lenguajes: Python (Pandas, NumPy, Scikit-Learn, Matplotlib).
+
 • Herramientas: Jupyter Notebook, Git, GitHub Actions.
+
 • Visualización: Tableau, Seaborn, Plotly.
