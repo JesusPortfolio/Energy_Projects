@@ -9,3 +9,10 @@ Portafolio de Ciencia de Datos
 • Herramientas: Jupyter Notebook, Git, GitHub Actions.
 
 • Visualización: Tableau, Seaborn, Plotly.
+
+📫 Contacto
+
+• LinkedIn: www.linkedin.com/in/jesus-puente-angulo
+
+• Email: jpuente720@gmail.com
+
